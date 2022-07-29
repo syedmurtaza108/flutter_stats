@@ -1,0 +1,19 @@
+name: flutter_stats
+description: Flutter statistics in give code.
+version: 0.0.1
+homepage: https://github.com/
+
+environment:
+  sdk: ">=2.13.0 <3.0.0"
+
+dependencies:
+  args: ^2.3.1
+  glob: ^2.1.0
+  path: ^1.8.2
+  very_good_analysis: ^3.0.0
+  
+dev_dependencies:
+  test: ^1.17.0
+
+executables:
+  flutter_stats:
